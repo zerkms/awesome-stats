@@ -23,6 +23,10 @@ Usage of ./awesome-stats:
     	stats template (default "(★{{.Stars}})")
 ```
 
+# Download
+
+You can download the recent build of the `awesome-stats` from https://bintray.com/zerkms/generic/awesome-stats/ or build it yourself (that would require go v1.8).
+
 # License
 
 GNU GENERAL PUBLIC LICENSE v3 (see `LICENSE.md`)
